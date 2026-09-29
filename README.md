@@ -87,4 +87,4 @@ It produces a file containing the collected product information, such as:
 
 ## Project Purpose
 
-The main purpose of this project is to **automatically collect Amazon Egypt product search data into structured files**, making the data easier to analyze, organize, or use in other applications.
+The main purpose of this project is to **automatically collect Amazon product search data into structured files**, making the data easier to analyze, organize, or use in other applications.
