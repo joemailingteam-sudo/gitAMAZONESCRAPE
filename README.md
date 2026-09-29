@@ -1,6 +1,6 @@
 # Amazon  Product Scraper
 
-A Python-based web scraper for collecting product information from **Amazon Egypt (Amazon)** using Playwright and an Oxylabs Web Unblocker proxy.
+A Python-based web scraper for collecting product information from **Amazon  (Amazon)** using Playwright and an Oxylabs Web Unblocker proxy.
 
 ## Overview
 
@@ -38,7 +38,7 @@ Example:
 
 The scraper targets:
 
-**Amazon Egypt — https://www.amazon.com**
+**Amazon — https://www.amazon.com**
 
 ## Proxy Support
 
